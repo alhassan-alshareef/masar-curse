@@ -1,1 +1,1 @@
-# masar-curse
+# masar-course
